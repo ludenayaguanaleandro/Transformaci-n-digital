@@ -1,5 +1,7 @@
 # Transformacion Digital
 
+![Transformacion Digital](https://www.juanmerodio.com/wp-content/uploads/transformacion-digital.jpg)
+
 La digitalización ofrece un enorme potencial para ganar competitividad en un mundo cada vez más tecnológico.
 
 La transformación digital se puede definir como la integración de las nuevas tecnologías en todas las áreas de una empresa para cambiar su forma de funcionar. El objetivo es optimizar los procesos, mejorar su competitividad y ofrecer un nuevo valor añadido a sus clientes.
